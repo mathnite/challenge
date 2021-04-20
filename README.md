@@ -8,9 +8,10 @@ When kids find out math can help them in games, they will have a reason to learn
 
 We are hosting this prototype on github because it is easy to host hand-built website made from html, css, and javascript. It also makes it easy to use bootstrap as a framework, and we learned a little bit about how Jekyll uses templates to make coding sites easier.
 
-In ordeer to make the site fun and feel like playing a game, we mixed together images, videos, and code that we found in various places on the web, combining and transforming them into our project.
- - videos and images are from Youtube channels for fresh (https://www.youtube.com/channel/UCqsBym4OHrzSp0Nq1eZoMIA), X2twins (https://www.youtube.com/channel/UCTgQTM6B97Tk5FPNOWZMB1Q), and Nick Eh 30 (https://www.youtube.com/channel/UCt9nYeSz90lnOnaVFjxFJzw)
- - other images are modified from sites including Epic Games 
+In order to make the site fun and feel like playing a game, we mixed together images, videos, and code that we found in various places on the web, combining and transforming them into our project.
+ - videos and images are from Youtube channels for fresh (https://www.youtube.com/channel/UCqsBym4OHrzSp0Nq1eZoMIA), X2twins (https://www.youtube.com/channel/UCTgQTM6B97Tk5FPNOWZMB1Q), and Nick Eh 30 (https://www.youtube.com/channel/UCt9nYeSz90lnOnaVFjxFJzw). We chose these because they are very popular players and have different play styles, and more kids might be interested if they recognize someone.
+ - other images are modified from sites including Epic Games, the makers of Fortnite. 
  - sound file is from: https://www.zedge.net/ringtone/40419fc2-4146-4caa-a38f-4ae453180c3b 
+ - Bill - the easter egg - is a fan art version Bill Cypher from Gravity Falls
  - html and css code are based on bootstrap (https://getbootstrap.com/docs/4.3/components/collapse/#events),  
 
