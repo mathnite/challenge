@@ -20,19 +20,19 @@ title: Math in Fortnite
 <div class="container features">
  <div class="row">
   <div class="col-lg-12 col-md-12 col-sm-12">
-	 <h3 class="feature-title">Get in Touch!</h3>
-	 <div class="form-group">
-	 <input type="text" class="form-control" placeholder="Name" name="" />
-	 </div>
-
-   <div class="form-group">
-	 <input type="email" class="form-control" placeholder="Email Address" name="email" />
-	 </div>
-
-   <div class="form-group">
-	 <textarea class="form-control" rows="4"></textarea>
-	 </div>
-	 <input type="submit" class="btn btn-secondary btn-block" value="Send" name="" />
-	</div>
+    <h3 class="feature-title">Get in Touch!</h3> 
+    <form name="input" action="https://formspree.io/f/xbjqlzbj" method="POST">
+     <div class="form-group">
+      <input name="name" type="text" class="form-control" placeholder="Name" />
+     </div>
+     <div class="form-group">
+	<input name="email" type="email" class="form-control" placeholder="Email Address" />
+     </div>
+     <div class="form-group">
+	<textarea name="message" class="form-control" placeholder="Type your message" rows="4"></textarea>
+	<input type="submit" class="btn btn-secondary btn-block" value="Send" />
+     </div>	  
+   </form>
+  </div>
  </div>
 </div>
